@@ -2,7 +2,7 @@
 
 🚀 About Me
 
-🎓 I’m Saniya, a 2nd-year B.Tech student in Information Technology, passionate about building scalable and efficient software systems.
+🎓 I’m Saniya, a 3rd-year B.Tech student in Information Technology, passionate about building scalable and efficient software systems.
 
 💻 With a strong foundation in Core Java, Spring Boot, and REST APIs, I focus on backend development while also working with frontend technologies like HTML, CSS, and JavaScript to create complete, functional applications.
 
@@ -19,6 +19,27 @@
 🧠 Currently, I’m strengthening my Data Structures & Algorithms and diving deeper into backend engineering and system design, preparing myself for high-impact software roles.
 
 🌱 I believe consistency > motivation. Every day is about learning, building, and leveling up.
+
+🛠 Tech Stack
+Languages:
+Java Core   • JavaScript •HTML  • CSS 
+
+Backend:
+Spring Boot  •Hibernate  •REST APIs
+
+Frontend:
+• Tailwind CSS • Bootstrap  • JSP  • Thymeleaf • HTML • CSS
+
+Tools & Platforms:
+🛠 Git • GitHub • IntelliJ IDEA • VS Code • Postman • Maven
+
+
+🏆 Achievements
+🥈 Qualified the 2nd round in the Smart India Hackthon (SIH 2025).
+🥈 Participated in the SAP Hackfest 
+🥈 Participated in an ideathon held at GNIOT College.
+📜 Certifications in  Java, Cisco Networking 
+💡 Led 3+ hackathon projects as a full-stack developer under tight deadlines
 
 
 
