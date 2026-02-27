@@ -2,7 +2,7 @@
 
 🚀 About Me
 
-🎓 I’m Saniya, a 3rd-year B.Tech student in Information Technology, passionate about building scalable and efficient software systems.
+🎓 I’m Saniya, a 3rd-year B.Tech student in Information Technology at G.L. Bajaj Institute of Technology and Management, Greater Noida, passionate about building scalable and efficient software systems.
 
 💻 With a strong foundation in Core Java, Spring Boot, and REST APIs, I focus on backend development while also working with frontend technologies like HTML, CSS, and JavaScript to create complete, functional applications.
 
