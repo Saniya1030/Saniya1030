@@ -22,11 +22,8 @@ Backend Developer • Java Enthusiast • Spring Boot Developer
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Saniya1030&style=for-the-badge&color=blueviolet"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Saniya1030&style=for-the-badge&color=blueviolet"/>
 </p>
 ## 👩‍💻 About Me
 
