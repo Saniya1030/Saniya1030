@@ -10,7 +10,7 @@ Backend Developer • Java Enthusiast • Spring Boot Developer
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot;REST+API+Developer;DSA+Learner;Open+Source+Enthusiast"/>
 </p><p align="center">
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/saniya-sirtaz-9262b12a8/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -18,7 +18,7 @@ Backend Developer • Java Enthusiast • Spring Boot Developer
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:saniyasirtaz1030@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -80,15 +80,13 @@ Backend Developer • Java Enthusiast • Spring Boot Developer
 </p>
 <p align="center">
 
-<a href="https://leetcode.com/yourusername">
+<a href="https://leetcode.com/u/saniya_sirtaz/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://codeforces.com/profile/yourusername">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/>
-</a>
 
-<a href="https://auth.geeksforgeeks.org/user/yourusername">
+
+<a href="https://www.geeksforgeeks.org/profile/saniyasirb0bl?tab=activityv">
 <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge"/>
 </a>
 
